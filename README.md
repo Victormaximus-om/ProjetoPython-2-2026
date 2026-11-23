@@ -4,7 +4,7 @@
 - victor maximus de oliveira marinho
 - sammuel de brito arruda
 - kauan rodrigues santos
-
+- priscilla lima
 ## Sobre o projeto
 
 Este projeto foi desenvolvido em Python com o objetivo de analisar dados de vendas utilizando a biblioteca Pandas e apresentar informações por meio de gráficos.
