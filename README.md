@@ -4,6 +4,7 @@
 - victor maximus de oliveira marinho
 - sammuel de brito arruda
 - kauan rodrigues santos
+- Priscilla da Silva Lima
 
 ## Sobre o projeto
 
